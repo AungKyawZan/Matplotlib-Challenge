@@ -1,1 +1,4 @@
 ## Matplotlib-Challenge
+This repository contains code for analyzing data from a study on the effectiveness of various drugs in treating squamous cell carcinoma (SCC) in 249 mice. The study evaluates the impact of different treatments on tumor levels and includes key metrics such as mean, median, variance, standard deviation, and standard error of the mean (SEM) for each drug.
+
+The data comes from "Mouse Metadata" and "Study Results" files, located in the Pymaceuticals/data folder. The analysis includes summary statistics, bar and pie plots for data distribution, tumor volume calculations for the most promising treatments, box plots highlighting potential outliers, and line and scatter plots showing relationships between treatment regimens, time, and tumor volume. Additionally, it includes correlation and linear regression analysis for the Capomulin treatment.
